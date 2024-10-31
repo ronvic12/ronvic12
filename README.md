@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Anderson Continuing Education in a Web Developer Role. 
 - 🌱 I’m currently learning C#,ASP.NET,JavaScript, Python 
 - 👯 I’m looking to collaborate and learn with a team of Software Engineers
-- 📫 How to reach me: ronviccuevas@gmail.com
+- 📫 How to reach me: ronviccuevas@gmail.com or in my LinkedIn: https://www.linkedin.com/in/ronvic-cuevas/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Basketball, Coding and Video Games
 
