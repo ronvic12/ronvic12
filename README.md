@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Anderson Continuing Education in a Web Developer Role, continously develop and maintaining scalable web application
+- 🔭 I’m currently working on Anderson Continuing Education in a Web Developer Role, continously developing and maintaining scalable web application.
 - 🌱 I am continuously improving my web development and programming skills in C#, ASP.NET, JavaScript, Python, and Node.js.
 - 👯 I’m looking to collaborate and learn with a team of Software Engineers
 - 📫 How to reach me: ronviccuevas@gmail.com or in my LinkedIn: https://www.linkedin.com/in/ronvic-cuevas/
